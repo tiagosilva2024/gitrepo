@@ -1,2 +1,2 @@
 # Aprendizado sobre GIT e GITHUB
-## _Uso do Readme.
+## _Uso do Readme._
